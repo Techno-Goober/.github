@@ -1,157 +1,265 @@
 <div align="center">
 
-# 👋 Welcome to Techno Goober
+<img src="https://www.technogoober.com/brand-assets/files/Current%20Logo/Full%20Logo/Web/Current-Full-Logo-LowRes.png" alt="Techno Goober" width="430">
 
-### Your Total Marketing Partners
+<br><br>
 
-**Web Design · Web Development · SEO · Marketing · Technology**
+<img src="./assets/github-header.svg" alt="Techno Goober — Your Total Marketing Partners" width="100%">
 
-[![Website](https://img.shields.io/badge/Website-technogoober.com-222222?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.technogoober.com/)
-[![Location](https://img.shields.io/badge/Lewes-Delaware-222222?style=for-the-badge\&logo=googlemaps\&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Techno+Goober+Lewes+Delaware)
+<br>
+
+
+
+
+
+
+
+
 
 </div>
 
----
+<br>
 
-## Who We Are
+👋 Hey, we're the Goobers.
 
-**Techno Goober** is a Delaware-based web, marketing, and technology company helping businesses and organizations build better digital experiences.
+Techno Goober is a web development, marketing, and technology company based in Lewes, Delaware, serving businesses and organizations across Delmarva and nationwide.
 
-From our home base in **Lewes, Delaware**, we create websites, solve technical problems, strengthen online visibility, and help our clients make technology work for their business.
+We build websites that work, solve the weird technical problems, help businesses get found, and stick around after launch when something inevitably needs changing.
 
-> **Small town heart, big city reach.**
+Built with AI. Checked by a Goober.
 
----
+We use modern tools to move faster — but strategy, design judgment, testing, refinement, and the final human review stay with our team.
 
-## What We Do
+<br>
+
+<div align="center">
+
+
+
+
+
+
+
+</div>
+
+What we do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web Design & Development
+🌐 Websites
 
-* Custom website design
-* WordPress development
-* Responsive & mobile-first builds
-* WooCommerce & eCommerce
-* Custom functionality & integrations
-* Website maintenance & improvements
-* Performance optimization
+We design, build, maintain, and improve websites for real businesses.
+
+Custom website design
+
+WordPress development
+
+Responsive & mobile-first builds
+
+WooCommerce & eCommerce
+
+Accessibility-minded development
+
+Performance optimization
+
+Ongoing website support
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Digital Marketing
+⚙️ Custom Development
 
-* Search Engine Optimization
-* Content development
-* Digital advertising
-* Social media
-* Local listings
-* Branding & logo design
-* Conversion-focused strategy
+When off-the-shelf doesn't cut it, we build what the project needs.
+
+WordPress plugins
+
+PHP & JavaScript
+
+API integrations
+
+Custom functionality
+
+Third-party integrations
+
+Business automations
+
+Troubleshooting the strange stuff
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Custom Development
+🔎 Search & Marketing
 
-* PHP & JavaScript development
-* WordPress plugins
-* API integrations
-* Third-party platform integrations
-* Automation
-* Custom business workflows
-* Troubleshooting & problem solving
+A great website isn't very useful if nobody can find it.
+
+Search Engine Optimization
+
+AI-search visibility
+
+Content strategy
+
+Digital advertising
+
+Social media
+
+Local listings
+
+Branding & graphic design
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ Technology
+🖥️ Technology
 
-* IT consulting
-* Managed services
-* Cybersecurity
-* Networking
-* Backups
-* VoIP
-* Technical support
+Our Goobers handle more than websites.
+
+IT consulting
+
+Managed services
+
+Cybersecurity
+
+Networking
+
+Backups
+
+VoIP
+
+Technical support
 
 </td>
 </tr>
 </table>
 
----
-
-## Our Web Toolbox
+🧰 The web toolbox
 
 <div align="center">
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square\&logo=woocommerce\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
-We work with proven platforms and modern development tools, choosing the right technology for the project rather than forcing every project into the same box.
+<br>
 
----
+We choose technology based on the problem we're solving, not because every project needs the newest shiny thing.
 
-## How We Build
-
-```text
-Discover → Plan → Design → Develop → Test → Launch → Improve
-```
-
-We care about more than making something look good. Our projects are built around:
-
-* **User experience**
-* **Accessibility**
-* **Responsive design**
-* **Performance**
-* **Search visibility**
-* **Maintainable code**
-* **Security**
-* **Real business goals**
-
----
-
-## Open Source & GitHub
-
-This organization is home to public projects, tools, experiments, integrations, and other development work created by the **Techno Goober** team.
-
-Some of our client and internal repositories are private, so what you see here is only part of what we're building.
-
----
-
-## We Give Where We Live
-
-Community matters to us.
-
-Techno Goober is proud to support local nonprofits and organizations in the communities we serve. We're a Delaware company with a local-first mindset and a reach that extends well beyond the First State.
-
----
+How we build
 
 <div align="center">
 
-## Have a project in mind?
+DISCOVER  →  PLAN  →  DESIGN  →  BUILD  →  TEST  →  LAUNCH  →  IMPROVE
 
-Whether you need a new website, custom development, better search visibility, marketing help, or a technology partner, we'd love to hear about it.
+</div>
 
-### [🌐 technogoober.com](https://www.technogoober.com/)
+Every project is different, but the fundamentals aren't:
 
-**Lewes, Delaware**
+
+
+We care about
+
+👤
+
+Real people first — clear UX and content that makes sense
+
+♿
+
+Accessibility — experiences built for more users
+
+📱
+
+Responsive design — tested beyond the desktop
+
+⚡
+
+Performance — fast experiences without unnecessary bloat
+
+🔎
+
+Discoverability — clean structure for search engines and AI assistants
+
+🧹
+
+Maintainability — code the next developer can actually understand
+
+🔐
+
+Security — sensible practices from build through maintenance
+
+🎯
+
+Business goals — because pretty isn't the same as effective
+
+🤖 AI + actual humans
+
+We use AI where it makes the work faster and better: scaffolding, repetitive production, first drafts, structured data, consistency checks, research assistance, and development workflows.
+
+But a machine doesn't get the final say.
+
+A Goober handles the judgment: strategy, design refinement, code review, fact checking, testing, launch, and the final read before work goes out the door.
+
+<div align="center">
+
+AI does the heavy lifting. Goobers make it good.
+
+</div>
+
+📦 What's on this GitHub?
+
+This organization is where you'll find public projects, utilities, integrations, experiments, examples, and other development work from the Techno Goober team.
+
+A large portion of our work is built specifically for clients or supports internal workflows, so many of our repositories are private.
+
+If something here helps you, use it. If you find an issue, open one. If you have an idea, we'd be happy to hear it.
+
+💚 We give where we live
+
+Techno Goober believes a local company should be part of the community around it.
+
+We support local nonprofits, community organizations, and causes throughout the region while helping businesses near and far do better work online.
+
+<div align="center">
+
+Small-town heart. Nationwide reach.
+
+</div>
+
+<div align="center">
+
+Seen enough code? Let's build something.
+
+Whether you need a new website, a custom WordPress solution, better search visibility, marketing help, or someone to untangle a technical mess, give the Goobers a shout.
 
 <br>
 
-### We don't bite. 👾
+
+
+
+
+<br><br>
+
+📍 Lewes, Delaware  •  📞 302-645-7177  •  ✉️ info@technogoober.com
+
+<br>
+
+We don't bite.
+
+<sub>Web design • development • SEO • marketing • technology</sub>
 
 </div>
