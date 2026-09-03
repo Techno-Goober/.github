@@ -2,20 +2,6 @@
 
 <img src="https://www.technogoober.com/brand-assets/files/Current%20Logo/Full%20Logo/Web/Current-Full-Logo-LowRes.png" alt="Techno Goober" width="430">
 
-<br><br>
-
-<img src="./assets/github-header.svg" alt="Techno Goober — Your Total Marketing Partners" width="100%">
-
-<br>
-
-
-
-
-
-
-
-
-
 </div>
 
 <br>
